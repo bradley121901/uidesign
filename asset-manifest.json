@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uidesign/static/css/main.4928ef12.css",
+    "main.js": "/uidesign/static/js/main.02189dba.js",
+    "index.html": "/uidesign/index.html",
+    "main.4928ef12.css.map": "/uidesign/static/css/main.4928ef12.css.map",
+    "main.02189dba.js.map": "/uidesign/static/js/main.02189dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4928ef12.css",
+    "static/js/main.02189dba.js"
+  ]
+}
