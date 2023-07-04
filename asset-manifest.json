@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uidesign/static/css/main.4928ef12.css",
-    "main.js": "/uidesign/static/js/main.696d7298.js",
+    "main.js": "/uidesign/static/js/main.fcf70809.js",
     "index.html": "/uidesign/index.html",
     "main.4928ef12.css.map": "/uidesign/static/css/main.4928ef12.css.map",
-    "main.696d7298.js.map": "/uidesign/static/js/main.696d7298.js.map"
+    "main.fcf70809.js.map": "/uidesign/static/js/main.fcf70809.js.map"
   },
   "entrypoints": [
     "static/css/main.4928ef12.css",
-    "static/js/main.696d7298.js"
+    "static/js/main.fcf70809.js"
   ]
 }
