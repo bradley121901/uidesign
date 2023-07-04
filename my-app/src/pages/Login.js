@@ -39,7 +39,7 @@ export default function Login() {
       <br></br>
       <span>
         &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
-        <Link to="/">
+        <Link to="/uidesign">
           <button class="ntb" type="submit">
             LOGIN
           </button>

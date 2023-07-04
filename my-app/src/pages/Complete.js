@@ -13,7 +13,7 @@ export default function Complete() {
         <label for="staticEmail" class="col-sm-4 col-form-label">
           Upload Picture:
           <button class="ntb">
-            <img src="/complete.png" class="completebtn" alt=" " />
+            <img src="/uidesign/complete.png" class="completebtn" alt=" " />
           </button>
         </label>
       </div>

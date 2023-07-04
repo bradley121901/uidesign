@@ -10,22 +10,22 @@ export default function Home() {
       <div class="row">
         <div class="col">
           <div>@cole</div>
-          <img src="/golf.png" class="homegolf" alt=" " />
+          <img src="/uidesign/golf.png" class="homegolf" alt=" " />
         </div>
 
         <div class="col">
           <div>@nick</div>
-          <img src="/travel.png" class="hometravel" alt=" " />
+          <img src="/uidesign/travel.png" class="hometravel" alt=" " />
           <div class="row">
             <div>@kita</div>
-            <img src="/travel2.png" class="homeeyelashes" alt=" " />
+            <img src="/uidesign/travel2.png" class="homeeyelashes" alt=" " />
           </div>
         </div>
         <div class="col">
           <div>@brad</div>
-          <img src="/sushi.png" class="homesushi" alt=" " />
+          <img src="/uidesign/sushi.png" class="homesushi" alt=" " />
           <div>@nico</div>
-          <img src="/drawing.png" class="homedrawing" alt=" " />
+          <img src="/uidesign/drawing.png" class="homedrawing" alt=" " />
         </div>
       </div>
       <br></br>

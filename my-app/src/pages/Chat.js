@@ -1,7 +1,5 @@
 import { Link } from 'react-router-dom';
 
-import React, { useState } from 'react';
-
 export default function Chat() {
   return (
     <div class="home">
@@ -165,7 +163,7 @@ export default function Chat() {
                           <p class="card-title">
                             {' '}
                             <img
-                              src="/person4.png"
+                              src="/uidesign/person4.png"
                               alt="bug"
                               height="50px"
                               width="50px"
@@ -191,7 +189,7 @@ export default function Chat() {
                           <p class="card-title">
                             {' '}
                             <img
-                              src="/person3.png"
+                              src="/uidesign/person3.png"
                               alt="bug"
                               height="50px"
                               width="50px"
@@ -219,7 +217,7 @@ export default function Chat() {
                         <p class="card-title">
                           {' '}
                           <img
-                            src="/person2.png"
+                            src="/uidesign/person2.png"
                             alt="bug"
                             height="50px"
                             width="50px"
@@ -242,7 +240,7 @@ export default function Chat() {
                       <dv>
                         <p class="card-title">
                           <img
-                            src="/person1.png"
+                            src="/uidesign/person1.png"
                             alt="bug"
                             height="50px"
                             max-width="50px"
@@ -260,7 +258,11 @@ export default function Chat() {
                                 placeholder="Send Message"
                               ></input>
                               <Link to="/chat">
-                                <img src="/send.png" class="search" alt=" " />
+                                <img
+                                  src="/uidesign/send.png"
+                                  class="search"
+                                  alt=" "
+                                />
                               </Link>
                             </small>
                           </p>

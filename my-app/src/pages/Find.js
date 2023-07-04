@@ -6,11 +6,11 @@ export default function Find() {
         <br></br>
         <span>
           <h1>
-            <img src="/person4.png" class="profile-logo" alt=" " />
+            <img src="/uidesign/person4.png" class="profile-logo" alt=" " />
             &nbsp; Nicole Hortons
-            <img src="/ig.png" class="social-logo" alt=" " />
-            <img src="/fb.png" class="social-logo" alt=" " />
-            <img src="/twitter.png" class="social-logo" alt=" " />
+            <img src="/uidesign/ig.png" class="social-logo" alt=" " />
+            <img src="/uidesign/fb.png" class="social-logo" alt=" " />
+            <img src="/uidesign/twitter.png" class="social-logo" alt=" " />
           </h1>
         </span>
       </div>
@@ -20,17 +20,17 @@ export default function Find() {
       <div class="row">
         <div class="col">
           special thanks to Tod for driving
-          <img src="/findphoto.png" class="findtravel" alt=" " />
+          <img src="/uidesign/findphoto.png" class="findtravel" alt=" " />
         </div>
 
         <div class="col">
-          <img src="/clover.png" class="clover" alt=" " />
+          <img src="/uidesign/clover.png" class="clover" alt=" " />
           <p>feeling lucky today!</p>
         </div>
 
         <div class="col ">
           new receipe!!!
-          <img src="/dessert.png" class="dessert" alt=" " />
+          <img src="/uidesign/dessert.png" class="dessert" alt=" " />
         </div>
       </div>
       <br></br>
@@ -50,10 +50,10 @@ export default function Find() {
       <br></br>
       <div>
         <h1>Mutuals</h1>
-        <img src="/person1.png" class="profile-logo" alt=" " />{' '}
-        <img src="/goodwill.png" class="profile-logo" alt=" " />{' '}
-        <img src="/person2.png" class="profile-logo" alt=" " />{' '}
-        <img src="/person3.png" class="profile-logo" alt=" " />{' '}
+        <img src="/uidesign/person1.png" class="profile-logo" alt=" " />{' '}
+        <img src="/uidesign/goodwill.png" class="profile-logo" alt=" " />{' '}
+        <img src="/uidesign/person2.png" class="profile-logo" alt=" " />{' '}
+        <img src="/uidesign/person3.png" class="profile-logo" alt=" " />{' '}
       </div>
       <br></br>
 

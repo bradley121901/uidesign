@@ -6,7 +6,7 @@ export default function Register() {
       <br></br>
       <h1>
         Register your
-        <img src="./logo.png" alt="bug" height={50} />
+        <img src="./uidesign/logo.png" alt="bug" height={50} />
       </h1>
       <br></br>
 

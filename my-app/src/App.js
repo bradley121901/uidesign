@@ -15,7 +15,7 @@ function App() {
     <>
       <Navbar className="m-auto" />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/uidesign" element={<Home />} />
         <Route path="/chat" element={<Chat />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/post" element={<Post />} />

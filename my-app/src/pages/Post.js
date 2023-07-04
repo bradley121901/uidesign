@@ -6,7 +6,7 @@ export default function Post() {
       <br></br>
       <span>
         <h2>
-          Add to <img src="./logo.png" alt="bug" height={50} />
+          Add to <img src="./uidesign/logo.png" alt="bug" height={50} />
         </h2>
       </span>
 
@@ -19,7 +19,7 @@ export default function Post() {
         <div class="col ">
           <Link to="/post">
             <button class="postbtn" type="submit">
-              <img src="./addimage.png" alt="bug" height={150} />
+              <img src="./uidesign/addimage.png" alt="bug" height={150} />
             </button>
           </Link>
         </div>
@@ -27,14 +27,14 @@ export default function Post() {
 
       <br></br>
       <span>
-        <Link to="/">
+        <Link to="/uidesign">
           <button class="ntb" type="submit">
             Return
           </button>
         </Link>
       </span>
       <span>
-        <Link to="/">
+        <Link to="/uidesign">
           <button class="ntb findbtn" type="submit">
             Post
           </button>

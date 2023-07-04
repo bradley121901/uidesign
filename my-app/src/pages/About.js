@@ -6,7 +6,7 @@ export default function Login() {
       <br></br>
       <h1 class="middle">
         About
-        <img src="./logo.png" alt="bug" height={60} />
+        <img src="./uidesign/logo.png" alt="bug" height={60} />
       </h1>
       <br></br>
       <br></br>

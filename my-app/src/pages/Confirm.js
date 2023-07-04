@@ -5,7 +5,7 @@ export default function Confirm() {
       <br></br>
       <br></br>
       <h1 class="middle">
-        <img src="./logo.png" alt="bug" height={80} />
+        <img src="./uidesign/logo.png" alt="bug" height={80} />
       </h1>
       <br></br>
       <br></br>

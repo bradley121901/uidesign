@@ -3,15 +3,15 @@ export default function Navbar() {
   return (
     <nav className="nav">
       <b href="logo">
-        <Link to="/" className="site-title">
-          <img src="./logo.png" alt="bug" height={50} />
+        <Link to="/uidesign" className="site-title">
+          <img src="/uidesign/logo.png" alt="bug" height={50} />
         </Link>
       </b>
       <ul>
         <li>
           <input type="text" placeholder="Search.."></input>
           <Link to="/chat">
-            <img src="/search.png" class="search" alt=" " />
+            <img src="/uidesign/search.png" class="search" alt=" " />
           </Link>
         </li>
 
